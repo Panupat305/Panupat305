@@ -1,11 +1,12 @@
 ### Hi I'm Panupat, Welcome to my Github 👋
 
+I have about 2 years experience with Web Developer. My familiar programming languages are Java and C#.
 
 🔭 I’m currently learning Node.js, React and Ionic.
 
 🤔 I'm looking for help with getting started React
 
-I have a youtube channel ["Mappime"](https://www.youtube.com/channel/UCpFBCeWV8kbI6fmsrHBRwuw), my channel is about traveling.
+I have a youtube channel ["Mappime"](https://www.youtube.com/channel/UCpFBCeWV8kbI6fmsrHBRwuw), But my channel is about traveling.
 
 こんにちは、私はパーヌパットといます。私のギットハブへようこそ。
 
