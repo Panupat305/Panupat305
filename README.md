@@ -1,7 +1,14 @@
-### Hi I'm Panupat, Welcone to my Github 👋
+### Hi I'm Panupat, Welcome to my Github 👋
+
+🔭 I’m currently learning Node.js, React and Ionic.
+🤔 I'm looking for help with getting started React
+I have a youtube channel ["Mappime"](https://www.youtube.com/channel/UCpFBCeWV8kbI6fmsrHBRwuw), my channel is about traveling.
 
 こんにちは、私はパーヌパットといます。私のギットハブへようこそ。
 よろしくお願いいたします。
+現在、Node.js、React、Ionicを勉強したいと思っています。
+
+
 <!--
 **Panupat305/Panupat305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
