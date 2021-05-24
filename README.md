@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi I'm Panupat, Welcone to my Github 👋
 
+こんにちは、私はパーヌパットといます。私のギットハブへようこそ。
+よろしくお願いいたします。
 <!--
 **Panupat305/Panupat305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
