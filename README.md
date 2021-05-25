@@ -10,9 +10,11 @@ I have a youtube channel ["Mappime"](https://www.youtube.com/channel/UCpFBCeWV8k
 
 こんにちは、私はパーヌパットといます。私のギットハブへようこそ。
 
-よろしくお願いいたします。
+私はWebDeveloperで約2年の経験があります。 私の使い慣れたプログラミング言語はJavaとC＃です。
 
 現在、Node.js、React、Ionicを勉強したいと思っています。
+
+よろしくお願いいたします。
 
 
 <!--
